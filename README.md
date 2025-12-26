@@ -9,6 +9,18 @@ This dataset is a combination of:
 
 Designed for training and evaluating **YOLO-based vehicle detection models** in diverse conditions, including adverse weather. The dataset is ~12 GB and released under CC-BY-4.0.
 
+### Classes and Annotations
+This dataset focuses exclusively on **vehicle detection**. All non-vehicle classes have been removed.  
+The remaining classes are:
+- Bicycle (Bike)
+- Car
+- Motorcycle (Motorbike)
+- Bus
+- Train
+- Truck
+
+All annotations have been **converted to YOLO format**, making the dataset directly usable for YOLO-based training and evaluation.
+
 ### Link
 Download here: https://www.kaggle.com/datasets/mingshen0118/bard-vehicle-detection
 
