@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: BARD
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ming Shen
+    family-names: Chea
+    email: mingshenchea@gmail.com
+repository-code: >-
+  https://www.kaggle.com/datasets/mingshen0118/bard-vehicle-detection
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2025-12-26'
