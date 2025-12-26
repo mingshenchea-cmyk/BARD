@@ -7,8 +7,10 @@ This dataset is a combination of:
 * Real-world Task-driven Testing Set (RTTS)
 * Detection in Adverse Weather Nature (DAWN)
 
+Designed for training and evaluating **YOLO-based vehicle detection models** in diverse conditions, including adverse weather. The dataset is ~12 GB and released under CC-BY-4.0.
+
 ### Link
-https://www.kaggle.com/datasets/mingshen0118/bard-vehicle-detection
+Download here: https://www.kaggle.com/datasets/mingshen0118/bard-vehicle-detection
 
 ## License
 This dataset is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
